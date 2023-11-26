@@ -51,4 +51,4 @@ https://github.com/neo-13th/hw8.01/commit/e2745b1d253eb071c09be0e5eaf0faa940dab4
 Не удаляйте ветку dev.  
 ![g2](https://github.com/neo-13th/github_hw/assets/150372172/f028f3c9-a803-4bc4-8ba0-2c6cd5aa512f)  
 ![g3](https://github.com/neo-13th/github_hw/assets/150372172/9698d656-5f06-4eab-9f68-38e0bfe08823)  
-https://github.com/neo-13th/github_hw/network  
+https://github.com/neo-13th/github_hw/network
